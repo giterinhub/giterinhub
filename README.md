@@ -31,4 +31,4 @@ In 2022, I've started doing more open-source work and hope to make this a fundam
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=giterinhub&label=Profile%20views&color=FF69B4&style=flat" alt="Erin La Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=giterinhub&label=Profile%20views&color=FF69B4&style=flat" alt="Erin La Profile Views"/> <sup>Since 7 March 2025</sup>
